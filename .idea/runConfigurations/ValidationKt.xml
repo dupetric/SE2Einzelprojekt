@@ -1,9 +1,9 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="ValidationKt" type="JetRunConfigurationType" nameIsGenerated="true">
     <option name="MAIN_CLASS_NAME" value="at.aau.serg.ValidationKt" />
-    <module name="se2-einzelprojekt-service.main" />
     <option name="PROGRAM_PARAMETERS" value="abgabe.xml" />
     <shortenClasspath name="NONE" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
